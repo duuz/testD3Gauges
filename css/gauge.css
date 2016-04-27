@@ -1,0 +1,14 @@
+body {
+			  	font: 10px arial;
+			}
+
+div { height:90%;
+         min-height: 90%;
+         width: 100%;
+         display: -webkit-flex;
+         display:         flex;
+         -webkit-flex-flow: row;
+         flex-flow: row;
+         justify-content: center;
+
+          }
